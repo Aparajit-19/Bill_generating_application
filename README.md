@@ -17,10 +17,7 @@
 <li align="left">Object-Oriented Programming</li>
 </ul>
 
-<h2 align="left">Visual representation:</h2>
-<ul>
-<<img width="894" alt="Screenshot 2023-10-25 000744" src="https://github.com/Aparajit-19/Bill_generating_application/assets/74190792/3bdfdfc3-4d67-4dea-b3e0-301e537633e3">>
-</ul>
+
 
 
 
